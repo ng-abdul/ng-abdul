@@ -21,28 +21,8 @@ Abdul Rahman is a passionate software engineer specializing in Angular developme
 ## Experience
 Abdul Rahman has accumulated X years of professional experience in software development, primarily focusing on Angular. Throughout his career, Abdul has worked with diverse teams, delivering high-quality solutions tailored to meet clients' requirements.
 
-## Projects
-### Project 1: [Project Name]
-Description: [Brief description of the project]
-Role: [Abdul's role in the project]
-Technologies: Angular, TypeScript, RxJS, etc.
-Github Repository: [Link to the project repository]
-
-### Project 2: [Project Name]
-Description: [Brief description of the project]
-Role: [Abdul's role in the project]
-Technologies: Angular, TypeScript, RxJS, etc.
-Github Repository: [Link to the project repository]
-
-### Project 3: [Project Name]
-Description: [Brief description of the project]
-Role: [Abdul's role in the project]
-Technologies: Angular, TypeScript, RxJS, etc.
-Github Repository: [Link to the project repository]
-
 ## Contact Information
-- Email: [Abdul's email address]
-- LinkedIn: [Abdul's LinkedIn profile]
+- Email: abdulrahman.connect@outlook.com
 
 ## Hire Abdul Rahman
 Abdul Rahman is available for freelance opportunities and new projects. If you're looking for a skilled Angular developer to join your team or collaborate on a project, feel free to reach out!

@@ -19,7 +19,7 @@ Abdul Rahman is a passionate software engineer specializing in Angular developme
 - Agile methodologies
 
 ## Experience
-Abdul Rahman has accumulated X years of professional experience in software development, primarily focusing on Angular. Throughout his career, Abdul has worked with diverse teams, delivering high-quality solutions tailored to meet clients' requirements.
+Abdul Rahman has accumulated 6 years of professional experience in software development, primarily focusing on Angular. Throughout his career, Abdul has worked with diverse teams, delivering high-quality solutions tailored to meet clients' requirements.
 
 ## Contact Information
 - Email: abdulrahman.connect@outlook.com
